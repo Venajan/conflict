@@ -3,3 +3,4 @@
 - I love Git
 - I like football
 - I like music
+- I have a cat
